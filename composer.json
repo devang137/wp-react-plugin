@@ -1,0 +1,15 @@
+{
+    "name": "posim/wp-react-plugin",
+    "autoload": {
+        "psr-4": {
+            "Posim\\WpReactPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "devangvachheta137",
+            "email": "devang.posimyth@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAGI;EACI;EACA;EACA;AAFR,C","sources":["webpack://wp-react-plugin/./src/style/main.scss"],"sourcesContent":["\r\n#wpreact-dev {\r\n    \r\n    .wpreact-title {\r\n        font-size: 1.5em;\r\n        font-weight: bold;\r\n        margin-bottom: 1em;\r\n    }\r\n}\r\n"],"names":[],"sourceRoot":""}
